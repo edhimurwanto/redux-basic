@@ -1,0 +1,14 @@
+{
+  "name": "redux-exercise",
+  "version": "1.0.0",
+  "description": "Redux exercise",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Edi Murwanto",
+  "license": "ISC",
+  "dependencies": {
+    "redux": "^4.0.5"
+  }
+}
